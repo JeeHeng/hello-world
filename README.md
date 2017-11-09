@@ -7,3 +7,8 @@ edit readme file from the EditReadMe2 branch
 # try hex
 
 edit the readme file 2nd time from the EditReadMe2 branch
+
+# Instruction 1.0
+xx, yy
+
+adding more in the after review, deleted zz
